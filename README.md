@@ -12,9 +12,8 @@ Para clonar o projeto, vá no cmd e coloque o comando "git clone https://github.
 e nesta pasta estará todo o projeto.
 
 
-Videos: (Mostrando o Aplicativo) https://drive.google.com/file/d/1Y1UUb1trTisiv3TshwmbFsCa9ujcWAVi/view?usp=sharing
-
-        (Mostrando o Codigo/Componentes) https://drive.google.com/file/d/1hSMPtDqTjib2Gtz_TmcBrOh8-Lxz0ei0/view?usp=sharing
-        
-        (Imagem do Aplicativo) https://drive.google.com/file/d/1OlXgEGAQNpKwW1JKMp1cSIjBwsWXGh15/view?usp=sharing
+Videos: 
+(Mostrando o Aplicativo) https://drive.google.com/file/d/1Y1UUb1trTisiv3TshwmbFsCa9ujcWAVi/view?usp=sharing
+(Mostrando o Codigo/Componentes) https://drive.google.com/file/d/1hSMPtDqTjib2Gtz_TmcBrOh8-Lxz0ei0/view?usp=sharing
+(Imagem do Aplicativo) https://drive.google.com/file/d/1OlXgEGAQNpKwW1JKMp1cSIjBwsWXGh15/view?usp=sharing
         
