@@ -10,3 +10,9 @@ mostra o formulario e calcula o IMC; e por fim fiz o Classification.js que mostr
 
 Para clonar o projeto, vá no cmd e coloque o comando "git clone https://github.com/HttpsKenzoaoki/CalculadoraIMC", assim ele vai criar uma pasta no seu computador 
 e nesta pasta estará todo o projeto.
+
+
+Videos: (Mostrando o Aplicativo) https://drive.google.com/file/d/1Y1UUb1trTisiv3TshwmbFsCa9ujcWAVi/view?usp=sharing
+        (Mostrando o Codigo/Componentes) https://drive.google.com/file/d/1hSMPtDqTjib2Gtz_TmcBrOh8-Lxz0ei0/view?usp=sharing
+        (Imagem do Aplicativo) https://drive.google.com/file/d/1OlXgEGAQNpKwW1JKMp1cSIjBwsWXGh15/view?usp=sharing
+        
