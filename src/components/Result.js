@@ -1,17 +1,16 @@
-import React from 'react';
-import { Text, StyleSheet } from 'react-native';
+import { Text, StyleSheet } from 'react-native'
 
 const Result = ({ imc }) => {
-  return <Text style={styles.result}>Seu IMC é: {imc}</Text>;
-};
+  return <Text style={styles.result}>Seu IMC é: {imc}</Text> //!Exibe o valor do IMC
+}
 
 const styles = StyleSheet.create({
   result: {
     marginTop: 20,
-    fontSize: 24,
+    fontSize: 20,
     textAlign: 'center',
-    color: '#333',
+    color: 'blue',
   },
-});
+})
 
-export default Result;
+export default Result
